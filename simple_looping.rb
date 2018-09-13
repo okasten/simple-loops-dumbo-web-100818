@@ -16,7 +16,8 @@ def loop_iterator(number_of_times)
       break 
     else 
       puts phrase
-    count += 1
+      count += 1
+    end 
   end 
   
 end
